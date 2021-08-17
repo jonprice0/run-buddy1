@@ -56,5 +56,8 @@ footer a {
 }
 section {
     padding: 60px;
-    background-image: url("../images/hero-bg.jpg");
+}
+.hero {
+    background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
+    height: 600px;
 }
